@@ -1,0 +1,12 @@
+C:\Users\c3166\source\repos\File_WPF\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\c3166\source\repos\File_WPF\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\c3166\source\repos\File_WPF\ViewModels\bin\Debug\Models.dll
+C:\Users\c3166\source\repos\File_WPF\ViewModels\bin\Debug\Prism.dll
+C:\Users\c3166\source\repos\File_WPF\ViewModels\bin\Debug\Models.pdb
+C:\Users\c3166\source\repos\File_WPF\ViewModels\bin\Debug\Prism.xml
+C:\Users\c3166\source\repos\File_WPF\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\c3166\source\repos\File_WPF\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\c3166\source\repos\File_WPF\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\c3166\source\repos\File_WPF\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\c3166\source\repos\File_WPF\ViewModels\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\c3166\source\repos\File_WPF\ViewModels\obj\Debug\ViewModels.csproj.ResolveComReference.cache
